@@ -48,7 +48,7 @@ Updates from representatives of each SIG.
   * [BDFL](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life) - @nicolerenee
 
 * How to contribute
-  * Fork the repo to your own account/org ↣
+  * Fork the repo to your account/org ↣
     * Make changes ✨
     * Submit a PR 📝
   * Respond to feedback 🔄
@@ -56,27 +56,41 @@ Updates from representatives of each SIG.
   * Good vides 🤠
   * [More info](https://infratographer.com/community/contributing/#contact)
 
-* What does community membership look like?
-  * What are the requirements?
-    * Be a contributor
-Display subject matter expertise
-      * Infratographer approvers are members of the community who have a deep understanding of either the codebase or the domain.
-    * Be a good community participant
-    * Reach out to @nicolerenee to request membership
-  * What are the responsibilities?
+* What does the community look like?
+  * What does it take to be a member?
+    * Anyone can be a member of the community who:
+      * Is active in Infratographer Slack or GitHub/Infratographer
+      * Follows the [code of conduct](https://infratographer.com/community/code-of-conduct/)
+    * A contributor additionally does one or more of the following:
+      * Open a PR
+      * Provide feedback on a PR
+      * Open issues
+      * Help answer questions
+      * Help triage issues
+    * A SIG leader is a contributor who also:
+      * Displays subject matter expertise
+      * Has a deep understanding of either the codebase or the domain.
+      * These are the individuals who will approve PRs and merge PRs.
+    * Reach out to @nicolerenee in Slack to request Contributor or SIG Leader status
+  * What are the responsibilities of all members?
     * Active participation in the community (e.g. contributing code, reviewing PR, etc.)
     * Display common best practices for production-level software (e.g. testing, documentation, etc.)
     * Transparency in decision making - Why do you follow a certain path, why one language over another, etc?
     * Transparency in communication - Why you're doing something, why you're not doing something, etc.
     * Transparency in intentions - What outcomes are you trying to achieve, what are you trying to solve, etc?
   * What are the expectations?
-    * e active
+    * Be active
     * Be helpful
     * Be honest
     * Be kind
     * Be open
     * Be patient
     * Be respectful
+
+* What is the general shape of the community?
+  * At this stage, we intend to be a flat community with a BDFL. Once there is a more robust community, we will revisit this.
+  * Our goal is to build an ecosystem of tools that can be used to bring a cloud-like experience to on-prem/colo environments. We want to build a community that is focused on solving this problem.
+
 
 ### API
 
@@ -90,10 +104,24 @@ Display subject matter expertise
 
 * @jnschaeffer (5 min)
 
+### Node Resolver
+
+* @nicolerenee (5 min)
+
+## Permissions API
+
+* @nicolerenee (5 min)
+
 ## Open Discussion
 
 Questions and comments from the community.
 
+### A brief history of Infratographer
+
+* @nicolerenee (12 min)
+
 ## Action Items
 
 * [ ] @andy-v-h to create a new doc for the next meeting
+* [ ] @andy-v-h to move membership info to the website
+* [ ] @nicolerenee publish roadmap

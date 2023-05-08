@@ -35,15 +35,11 @@
 
 ## SIG Updates
 
-Updates from representatives of each SIG.
+Updates from representatives of each SIG, as needed.
 
-### API
+### SIG 1
 
-### Release
-
-### Identity
-
-### Community
+### SIG 2
 
 ## Open Discussion
 
