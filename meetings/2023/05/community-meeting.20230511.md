@@ -39,7 +39,7 @@ Updates from representatives of each SIG.
 
 ### Community
 
-* @andy-v-h (5 min)
+* @andy-v-h (3 min)
 
 * Who is the community?
   * Anyone who is interested in modern infrastructure (specifically on-prem/colocation, today) - We're happy to have you
@@ -92,7 +92,7 @@ Updates from representatives of each SIG.
   * Our goal is to build an ecosystem of tools that can be used to bring a cloud-like experience to on-prem/colo environments. We want to build a community that is focused on solving this problem.
 
 
-### API
+### Bootstrap
 
 * @nicolerenee (7 min)
 
@@ -104,13 +104,14 @@ Updates from representatives of each SIG.
 
 * @jnschaeffer (5 min)
 
-### Node Resolver
+### Come up with more SIGs
+
+Node Resolver, permission-api
+
+We want to roughly group the SIGs into the following with broad scopes, or more narrow scopes. Some topics will span multiple concerns, others will be more focused on a single concern. E.g., the bootstrap SIG will be focused on bootstrapping the majority of the project and laying foundations that enable future work, the identity SIG will be focused on the tenancy, permission, and auth* of the project and how it is represented, etc.
 
 * @nicolerenee (5 min)
 
-## Permissions API
-
-* @nicolerenee (5 min)
 
 ## Open Discussion
 
