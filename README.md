@@ -1,4 +1,5 @@
-# Infratographer Community
+![text](files/logo.jpg)
+#  Community
 
 ## Community Meeting
 
