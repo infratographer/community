@@ -45,7 +45,7 @@ Updates from representatives of each SIG, as needed.
 
 #### Github
 
-SIG Community discussed a handful of issues around community management. The SIG is working on a proposal for an endstate where org membership is not required to participate in contributions, but searching for a solution that will enable fair more granular control over permissions. As we work through this, the intended workflow is to make a personal fork of the Infratographer repos, make changes there, and then submit a PR to the Infratographer repo. This will allow us to maintain a single source of truth for the Infratographer repos while allowing for more granular control over permissions. Generally speaking, we want to enable SIG Leaders to be able to manage their SIGs, and we want to enable SIG Leaders to be able to manage their SIGs without having to be an org owner.
+SIG Community discussed a handful of issues around community management. The SIG is working on a proposal for an endstate where org membership is not required to participate in contributions, but searching for a solution that will enable far more granular control over permissions. As we work through this, the intended workflow is to make a personal fork of the Infratographer repos, make changes there, and then submit a PR to the Infratographer repo. This will allow us to maintain a single source of truth for the Infratographer repos while allowing for more granular control over permissions. Generally speaking, we want to enable SIG Leaders to be able to manage their SIGs without having to be an org owner.
 
 ### Bootstrap
 
