@@ -9,8 +9,8 @@
 <!-- WIP
 * [ ] Review open issues and pull requests
 * [ ] Review new issues and pull requests
-* [ ] Review project board
 -->
+* [ ] Review project board
 * [ ] Review project status
 * [ ] SIG updates
 * [ ] Open discussion
@@ -33,7 +33,7 @@
 
 * [x] @andy-v-h to create a new doc for the next meeting
 * [ ] @andy-v-h to move membership info to the website
-* [ ] @nicolerenee publish roadmap
+* [x] @nicolerenee publish roadmap
 
 ## Project Status
 
@@ -41,10 +41,35 @@
 
 Updates from representatives of each SIG, as needed.
 
-### SIG 1
+### Community
 
-### SIG 2
+#### Github
+
+SIG Community discussed a handful of issues around community management. The SIG is working on a proposal for an endstate where org membership is not required to participate in contributions, but searching for a solution that will enable fair more granular control over permissions. As we work through this, the intended workflow is to make a personal fork of the Infratographer repos, make changes there, and then submit a PR to the Infratographer repo. This will allow us to maintain a single source of truth for the Infratographer repos while allowing for more granular control over permissions. Generally speaking, we want to enable SIG Leaders to be able to manage their SIGs, and we want to enable SIG Leaders to be able to manage their SIGs without having to be an org owner.
+
+### Bootstrap
+
+#### Interfaces
+
+#### Examples
+
+  * [ ] Make an example API that will show how an `example` node is added to the graph.
+  * [ ] Make a lab-style repo that can be forked and worked through to learn how to work with `ent` and `gqlgen` and how to reference nodes as external attributes managed by another subgraph.
+
+#### More cowbell
+
+  * Complete components listed as a foundational piece of the project
+  * Initial a release process for composing the supergraph
+
+### SIG Make more SIGS
+
+  * Identify SIGs that need to be created
+    * Identify broad areas and narrow areas to specify SIGs around
+    * Identify SIG Leaders
+    * Lower priority
 
 ## Open Discussion
 
 ## Action Items
+
+* [ ] @andy-v-h to move membership info to the website

@@ -1,4 +1,4 @@
-![text](files/logo.jpg)
+![text](https://raw.githubusercontent.com/infratographer/website/main/source/theme/assets/pictures/logo.jpg)
 #  Community
 
 ## Community Meeting
