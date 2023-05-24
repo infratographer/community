@@ -51,6 +51,10 @@ SIG Community discussed a handful of issues around community management. The SIG
 
 #### Interfaces
 
+We are going to be using `@interfaceObject` to add functions to interfaces. This works really well in the testing, but we did find one important gotcha. A subgraph that defines an `@interfaceObject` can not implement any objects that implement that interface. 
+
+Meaning tenant-api can't declare that a tenant has a parent resource owner since tenant implements resource owner. 
+
 #### Examples
 
   * [ ] Make an example API that will show how an `example` node is added to the graph.

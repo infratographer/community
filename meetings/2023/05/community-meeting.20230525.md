@@ -37,9 +37,20 @@
 
 Updates from representatives of each SIG, as needed.
 
-### SIG 1
+### Bootstrap
 
-### SIG 2
+#### API Gateway
+
+Started work on graphql schema validation on PRs. Example [PR output](https://github.com/infratographer/metadata-api/pull/26).
+Supergraph "deployed" to [Apollo Studio](https://studio.apollographql.com/public/infratographer/variant/main/home). 
+
+##### Generation
+
+#### Interfaces
+
+Bug around @interfaceObjects was found and [reported](https://github.com/apollographql/federation/issues/2590).
+
+#### Demo / Web UI
 
 ## Open Discussion
 
