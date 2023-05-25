@@ -21,7 +21,7 @@
 * @andy-v-h
 * @nicolerenee
 * @sfunkhouser
-*
+* @jnschaeffer
 *
 *
 *
@@ -51,6 +51,16 @@ Supergraph "deployed" to [Apollo Studio](https://studio.apollographql.com/public
 Bug around @interfaceObjects was found and [reported](https://github.com/apollographql/federation/issues/2590).
 
 #### Demo / Web UI
+
+### Identity
+
+#### Predictable Subject IDs
+
+Merged [PR #196](https://github.com/infratographer/identity-api/pull/169) in identity-api defining and implementing an algorithm for predictable subject ID generation during token exchange. However, some details warrant further discussion among the group.
+
+#### Opaque Token Exchange
+
+Discussed to some degree last week but there are situations where we want to accept opaque tokens from other services (possibly but not necessarily OAuth 2.0 providers). Current ideas include a JWT signing service that can be deployed in front of anything that responds to a request with an [OAuth 2.0 token introspection](https://www.rfc-editor.org/rfc/rfc7662#section-2.2) response to keep things generic.
 
 ## Open Discussion
 
