@@ -33,11 +33,15 @@
 
 ## Project Status
 
+## Announcements
+
+### License Changes
+
 ## SIG Updates
 
 Updates from representatives of each SIG, as needed.
 
-### SIG 1
+### SIG 1 
 
 ### SIG 2
 
