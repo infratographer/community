@@ -33,6 +33,7 @@ Updates from representatives of each SIG, as needed.
 ### Community
 
 * Moving to lower community cadence
+* Self-service meeting invite, coming soon ™
 
 ### SIG 2
 
