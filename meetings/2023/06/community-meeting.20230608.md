@@ -6,11 +6,6 @@
 
 * [ ] Welcome new members and guests
 * [ ] Review previous meeting minutes
-<!-- WIP
-* [ ] Review open issues and pull requests
-* [ ] Review new issues and pull requests
-* [ ] Review project board
--->
 * [ ] Review project status
 * [ ] SIG updates
 * [ ] Open discussion
@@ -23,13 +18,7 @@
 * @sfunkhouser
 *
 *
-*
-*
-*
 
-## Previous Meeting Minutes
-
-* [YYYY-MM-DD]()
 
 ## Project Status
 
