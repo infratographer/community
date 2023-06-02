@@ -35,7 +35,11 @@ Updates from representatives of each SIG, as needed.
 * Moving to lower community cadence
 * Self-service meeting invite, coming soon ™
 
-### SIG 2
+### Bootstrap
+
+* API Gateway generation code coming soon. Enables building node-resolver and supergraph files
+* No movement on open Apollo Federation bug impacting `@interfaceObject`s
+* HA Proxy provider for Load Balancers being updated to use new `events` package from `x`
 
 ## Open Discussion
 
