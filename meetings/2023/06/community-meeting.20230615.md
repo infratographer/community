@@ -25,9 +25,7 @@
 
 Updates from representatives of each SIG, as needed.
 
-### Community 
-
-* Meetings will be held on the first and third Thursday of each month, the time will remain the same. This means this is the last meeting of June.
+### SIG 1
 
 ### SIG 2
 
