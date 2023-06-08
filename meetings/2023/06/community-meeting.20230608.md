@@ -28,8 +28,8 @@ Updates from representatives of each SIG, as needed.
 
 ### Community
 
-* Meetings will only occur on the 1st and 3rd thursday of each month. June 15th will be the last meeting for June.
-* We invite you join our mailing list - community+subscribe@infratographer.com
+* Meetings will only occur on the Thursday of each [odd week](https://www.epochconverter.com/weeknumbers).
+* We invite you to join our mailing list - community+subscribe@infratographer.com
   * Invites to this meeting will be managed through the mailing list starting in August
 
 ### SIG 2
