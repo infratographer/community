@@ -1,4 +1,4 @@
-# Infratographer Community Meeting 2023-06-15 @10:30am CT
+# Infratographer Community Meeting 2023-07-27 @10:30am CT
 
 [Zoom Link](https://us06web.zoom.us/j/88057942869?pwd=Vnd1OWplazFwREJQeWFHWks4MUptQT09)
 
@@ -9,7 +9,6 @@
 * [ ] Review project status
 * [ ] SIG updates
 * [ ] Open discussion
-* [ ] Review action items
 
 ## Attendees
 
@@ -18,6 +17,7 @@
 * @sfunkhouser
 *
 *
+
 
 ## Project Status
 
@@ -30,5 +30,3 @@ Updates from representatives of each SIG, as needed.
 ### SIG 2
 
 ## Open Discussion
-
-## Action Items
