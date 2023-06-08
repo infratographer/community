@@ -26,7 +26,11 @@
 
 Updates from representatives of each SIG, as needed.
 
-### SIG 1
+### Community
+
+* Meetings will only occur on the 1st and 3rd thursday of each month. June 15th will be the last meeting for June.
+* We invite you join our mailing list - community+subscribe@infratographer.com
+  * Invites to this meeting will be managed through the mailing list starting in August
 
 ### SIG 2
 
