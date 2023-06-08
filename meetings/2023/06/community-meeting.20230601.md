@@ -4,11 +4,11 @@
 
 ## Agenda
 
-* [ ] Welcome new members and guests
-* [ ] Review previous meeting minutes
-* [ ] Review project status
-* [ ] SIG updates
-* [ ] Open discussion
+* [x] Welcome new members and guests
+* [x] Review previous meeting minutes
+* [x] Review project status
+* [x] SIG updates
+* [x] Open discussion
 * [ ] Review action items
 
 ## Attendees
@@ -42,5 +42,7 @@ Updates from representatives of each SIG, as needed.
 * HA Proxy provider for Load Balancers being updated to use new `events` package from `x`
 
 ## Open Discussion
+
+* Concerns over license change, left to further discussion and exploration. 
 
 ## Action Items
