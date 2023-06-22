@@ -32,4 +32,14 @@ Updates from representatives of each SIG, as needed.
 
 ## Open Discussion
 
+- License change
+
+- Usage of the X Repo (https://github.com/infratographer/x)
+  - Breaking changes
+  - Long term sustainability/management
+
+- GraphQL "Standards"
+  - Different configs in different repos
+  - As we're learning, how do we ensure those learnings are shared back with other API's
+
 ## Action Items
