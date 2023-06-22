@@ -16,7 +16,7 @@
 * @andy-v-h
 * @nicolerenee
 * @sfunkhouser
-*
+* @tauerbeck
 *
 
 
@@ -26,10 +26,20 @@
 
 Updates from representatives of each SIG, as needed.
 
-### SIG 1
+### SIG Bootstrap
 
-### SIG 2
+- License change
+
+- Usage of the X Repo (https://github.com/infratographer/x)
+  - Breaking changes
+  - Long term sustainability/management
+
+### SIG Community
+
+- Reminder to join the Google Group - [Infratographer Community](https://groups.google.com/a/infratographer.com/g/community)
 
 ## Open Discussion
 
-## Action Items
+- GraphQL "Standards"
+  - Different configs in different repos
+  - As we're learning, how do we ensure those learnings are shared back with other API's
