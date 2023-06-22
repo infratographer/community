@@ -34,6 +34,10 @@ Updates from representatives of each SIG, as needed.
   - Breaking changes
   - Long term sustainability/management
 
+### SIG Community
+
+- Reminder to join the Google Group - [Infratographer Community](https://groups.google.com/a/infratographer.com/g/community)
+
 ## Open Discussion
 
 - GraphQL "Standards"
