@@ -14,19 +14,9 @@
 
 * @andy-v-h
 * @nicolerenee
-* 
-*
-*
+* @sfunk
+* @pereztr5
 
+## Skipped
 
-## Project Status
-
-## SIG Updates
-
-Updates from representatives of each SIG, as needed.
-
-### SIG 1
-
-### SIG 2
-
-## Open Discussion
+Due to the US holiday week, attendance was too low to have a qourum. 
