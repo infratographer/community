@@ -18,12 +18,17 @@
 *
 *
 
-
 ## Project Status
 
 ## SIG Updates
 
 Updates from representatives of each SIG, as needed.
+
+### SIG Bootstrap
+
+* IPAM Becoming Network API
+* Finalizers
+* Lifecycle status tracking for objects
 
 ### SIG 1
 
