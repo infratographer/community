@@ -15,7 +15,7 @@
 * @andy-v-h
 * @nicolerenee
 * @sfunkhouser
-*
+* @jnschaeffer
 *
 
 ## Project Status
@@ -30,7 +30,11 @@ Updates from representatives of each SIG, as needed.
 * Finalizers
 * Lifecycle status tracking for objects
 
-### SIG 1
+### SIG Identity
+
+* Observability for permissions-related lifecycle events
+* Synchronous permissions management
+* Authorization for permissions-api
 
 ### SIG 2
 
