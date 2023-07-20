@@ -39,3 +39,5 @@ Updates from representatives of each SIG, as needed.
 ### SIG 2
 
 ## Open Discussion
+* Use of [Watermill](https://watermill.io/) to stay event bus agnostic causing other challenges, such as the support `NackDelay`, `Request-Reply`, and keeping the full infratographer language agnostic (watermill locks pretty heavily into requiring the use of `go`).
+* New `sig-events` created to work on addressing NATs + events open issues 
