@@ -18,6 +18,6 @@ The result of this will be (and is currently) a tangled web of overreliance on t
 
 What we propose is that event generation is moved into the handler itself. In this manner, we can more tightly control when a message is generated. This also allows us to do things like wrapping the entire set of actions within a single transaction which will allow for a cleaner rollback and prevention of sending invalid messages (or because we have better control over the message sending, we would now have better control over things like letting an action complete, regardless if a message fails -- which is in line with how we do things today).
 
-**Potential Drawback**:
+**Potential Drawback(s)**:
 
 Some of the information that is available to us in hooks that we use to craft change messages may not necessarily be available to us (or at least as easily available to us) inside of the handlers. Further investigation/discussion may be required as to the importance of this.
