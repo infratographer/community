@@ -19,7 +19,6 @@
 *
 *
 
-
 ## Project Status
 
 ## SIG Updates
@@ -30,7 +29,13 @@ Updates from representatives of each SIG, as needed.
 
 Kicked off work on the VM SIG.  We have a few volunteers to help with the SIG.  We are working on the basics of the code bases. Design will roughly follow load balancers for now
 
-### SIG 2
+### Compute
+
+The initial work for server-api is kicking off for tracking bare metal servers.
+
+### Events
+
+Update on current state of events refactor.
 
 ## Open Discussion
 
