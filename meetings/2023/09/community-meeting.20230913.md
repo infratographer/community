@@ -26,9 +26,7 @@
 
 Updates from representatives of each SIG, as needed.
 
-### SIG Events
-
-Purposal 1
+### SIG 1
 
 ### SIG 2
 
