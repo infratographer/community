@@ -46,4 +46,10 @@ Additionally with this change included the Auth Relationship Request / Reply eve
 
 ## Open Discussion
 
+- Look at https://github.com/benthosdev/benthos
+- Providers should talk over GraphQL subscriptions and not to NATs directly
+- Local dev environment needs to be made easier long term
+- Regular release cycle, target every 3 months - first one in October 2023
+- Metadata API - been testing mergify for renovate PRs and backport fixes to a release branch
+
 ## Action Items
