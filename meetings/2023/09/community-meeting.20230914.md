@@ -1,4 +1,4 @@
-# Infratographer Community Meeting YYYY-MM-DD @10:30am CT
+# Infratographer Community Meeting 2023-09-14 @10:30am CT
 
 [Zoom Link](https://us06web.zoom.us/j/88057942869?pwd=Vnd1OWplazFwREJQeWFHWks4MUptQT09)
 
